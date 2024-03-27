@@ -8,8 +8,11 @@
         SELECT TO_CHAR(fecha_registro, 'YYYY-MM-DD') AS fecha_formateada
         FROM mi_tabla;
         ```
-        
+
         Esto mostrará las fechas en el formato deseado, como “2023-05-15”.
+
+
+
 2. **Obtener el nombre del mes a partir de una fecha**:
     
     - Si deseas obtener el nombre completo del mes a partir de una fecha, puedes usar el siguiente ejemplo:
@@ -20,6 +23,8 @@
         ```
         
         Esto devolverá el nombre completo del mes, como “May” para la fecha “2023-05-15”.
+
+
 3. **Formatear un número decimal con una cantidad específica de decimales**:
     
     - Supongamos que tienes una columna llamada `monto` con valores numéricos. Para mostrar estos montos con dos decimales, puedes hacer lo siguiente:

@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b0e84f16b2f8fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COALESCE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3dec9d7e4b91be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DECODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ddddfa9c4365bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SIGN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO_CHAR.md",
+                "file": "SIGN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO_CHAR.md",
+                "file": "SIGN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO_CHAR.md"
+                "file": "SIGN.md"
               }
             }
           }
@@ -159,9 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7412d3f5cb0020eb",
+  "active": "7ddddfa9c4365bc0",
   "lastOpenFiles": [
-    "Tipos de funciones sql y ejemplos.md",
-    "TO_CHAR.md"
+    "DECODE.md",
+    "SIGN.md",
+    "COALESCE.md",
+    "TO_CHAR.md",
+    "Tipos de funciones sql y ejemplos.md"
   ]
 }
