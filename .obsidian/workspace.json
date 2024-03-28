@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96a3bde376bfa705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SELECT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3594f383266afb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CREATE TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8c7095bae3f1415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sumario base de datos principiante - avanzado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ubicación de la Expresión en Cláusula CASE de SQL.md",
+                "file": "Sumario base de datos principiante - avanzado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ubicación de la Expresión en Cláusula CASE de SQL.md",
+                "file": "Sumario base de datos principiante - avanzado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubicación de la Expresión en Cláusula CASE de SQL.md"
+                "file": "Sumario base de datos principiante - avanzado.md"
               }
             }
           }
@@ -207,10 +243,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ef57ebab68c046b",
+  "active": "a8c7095bae3f1415",
   "lastOpenFiles": [
-    "SIGN.md",
+    "CREATE TABLE.md",
+    "Sumario base de datos principiante - avanzado.md",
+    "SELECT.md",
     "Ubicación de la Expresión en Cláusula CASE de SQL.md",
+    "SIGN.md",
     "DECODE.md",
     "COALESCE.md",
     "TO_CHAR.md",

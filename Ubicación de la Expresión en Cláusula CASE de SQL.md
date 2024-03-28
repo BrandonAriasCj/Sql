@@ -28,7 +28,15 @@ FROM personas;
 ```
 
 ```sql
-SELECT nombre, CASE edad WHEN 18 THEN 'Mayoria de Edad' WHEN 21 THEN 'Edad para Beber' ELSE 'Otra Edad' END AS estado_edad FROM personas;
+SELECT nombre, 
+	CASE 
+		WHEN 15 THEN ''
+		WHEN 45 THEN ''
+		WHEN 78 THEN ''
+		WHEN 96 THEN ''
+		WHEN 45 THEN ''
+		ELSE 
+	END
 ```
 ### 2. Forma de Búsqueda de `CASE`:
 
@@ -57,6 +65,15 @@ SELECT nombre,
 FROM personas;
 ```
 
+```sql
+SELECT nombre, 
+	CASE 
+		WHEN edad >= 18 AND edad < 25 THEN 'Joven Adulto'
+		WHEN edad >= 25 AND edad < 40 THEN 'Adulto'
+		ELSE 'Senior'
+	END AS grupo_edad
+FROM personas;
+```
 ### Regla General:
 
 En la forma simple de `CASE`, la expresión a evaluar se coloca después de `CASE`, ya que estás evaluando una única expresión contra varios valores posibles.
