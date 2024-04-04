@@ -162,9 +162,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40e9637c6091fbc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SUBSTR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CASE.md",
+                "file": "SUBSTR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CASE.md",
+                "file": "SUBSTR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CASE.md"
+                "file": "SUBSTR.md"
               }
             }
           }
@@ -291,10 +303,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa67034687859257",
+  "active": "40e9637c6091fbc6",
   "lastOpenFiles": [
-    "Ubicación de la Expresión en Cláusula CASE de SQL.md",
     "CASE.md",
+    "SUBSTR.md",
+    "Ubicación de la Expresión en Cláusula CASE de SQL.md",
     "SIGN.md",
     "COALESCE.md",
     "Combinar create tabla con sing.md",
