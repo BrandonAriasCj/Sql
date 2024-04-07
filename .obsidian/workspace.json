@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de funciones de grupo.md",
+                "file": "GRUP BY.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tipos de funciones de grupo.md",
+                "file": "GRUP BY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tipos de funciones de grupo.md",
+                "file": "GRUP BY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tipos de funciones de grupo.md"
+                "file": "GRUP BY.md"
               }
             }
           }
@@ -329,20 +329,21 @@
   },
   "active": "6b0672ce5b792f47",
   "lastOpenFiles": [
-    "Concatenacion en SQL con ejemplos variados.md",
+    "DECODE.md",
+    "Pasted image 20240407175708.png",
     "Tipos de funciones de grupo.md",
+    "Concatenacion en SQL con ejemplos variados.md",
+    "Combinar create tabla con sing.md",
     "SUBSTR.md",
     "CASE.md",
     "Ubicación de la Expresión en Cláusula CASE de SQL.md",
     "SIGN.md",
     "COALESCE.md",
-    "Combinar create tabla con sing.md",
     "TO_CHAR.md",
     "GRUP BY.md",
     "Sumario base de datos principiante - avanzado.md",
     "CREATE TABLE.md",
     "SELECT.md",
-    "DECODE.md",
     "Tipos de funciones sql y ejemplos.md"
   ]
 }

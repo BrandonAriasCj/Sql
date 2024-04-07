@@ -27,6 +27,8 @@ Al utilizar "GROUP BY", es común emplear funciones de agregación para realizar
 - COUNT(columna): Cuenta el número de filas en cada grupo, o el número de valores no nulos en una columna.
 - MAX(columna): Devuelve el valor máximo de una columna en cada grupo.
 - MIN(columna): Devuelve el valor mínimo de una columna en cada grupo.
+- 
+[[Tipos de funciones de grupo]] 
 
 4. **Filtrar datos agrupados**:
 Es posible añadir condiciones de filtrado a la consulta utilizando la cláusula "HAVING" después de "GROUP BY". Por ejemplo:

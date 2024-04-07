@@ -6,6 +6,8 @@ La sintaxis básica de `DECODE` es la siguiente:
 DECODE(expr, search, result, default)
 ```
 
+![[Pasted image 20240407175708.png]]
+
 Donde:
 - `expr` es la expresión que deseas evaluar.
 - `search` es el valor que estás buscando en `expr`.
@@ -35,3 +37,5 @@ En este ejemplo, `DECODE` se utiliza junto con la función `SIGN` para clasifica
 Este es solo un ejemplo básico para ilustrar cómo funciona `DECODE`. Puedes personalizar las condiciones y los resultados según tus necesidades.
 
 Recuerda que `DECODE` puede ser una forma útil de realizar transformaciones de valores en una consulta SQL. Si tienes más preguntas o necesitas más ejemplos, no dudes en preguntar.
+
+https://youtu.be/0NLWzPwWlDw?si=E2Gkz5QfvTLxhr3I
