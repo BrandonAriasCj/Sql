@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b0672ce5b792f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de funciones de grupo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concatenacion en SQL con ejemplos variados.md",
+                "file": "Tipos de funciones de grupo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concatenacion en SQL con ejemplos variados.md",
+                "file": "Tipos de funciones de grupo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concatenacion en SQL con ejemplos variados.md"
+                "file": "Tipos de funciones de grupo.md"
               }
             }
           }
@@ -315,10 +327,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea9fbdf87b074d7b",
+  "active": "6b0672ce5b792f47",
   "lastOpenFiles": [
-    "SUBSTR.md",
     "Concatenacion en SQL con ejemplos variados.md",
+    "Tipos de funciones de grupo.md",
+    "SUBSTR.md",
     "CASE.md",
     "Ubicación de la Expresión en Cláusula CASE de SQL.md",
     "SIGN.md",
