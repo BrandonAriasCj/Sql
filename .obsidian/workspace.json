@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRUP BY.md",
+                "file": "GROUP BY.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,14 +193,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRUP BY.md",
+                "file": "GROUP BY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "137aa90df743ee4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subconsultas SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37096a2cd98412d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funciones IN, ANY, ALL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -266,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRUP BY.md",
+                "file": "Funciones IN, ANY, ALL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GRUP BY.md",
+                "file": "Funciones IN, ANY, ALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GRUP BY.md"
+                "file": "Funciones IN, ANY, ALL.md"
               }
             }
           }
@@ -327,8 +351,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b0672ce5b792f47",
+  "active": "37096a2cd98412d8",
   "lastOpenFiles": [
+    "Subconsultas SQL.md",
+    "Funciones IN, ANY, ALL.md",
+    "GROUP BY.md",
     "DECODE.md",
     "Pasted image 20240407175708.png",
     "Tipos de funciones de grupo.md",
@@ -340,7 +367,6 @@
     "SIGN.md",
     "COALESCE.md",
     "TO_CHAR.md",
-    "GRUP BY.md",
     "Sumario base de datos principiante - avanzado.md",
     "CREATE TABLE.md",
     "SELECT.md",
