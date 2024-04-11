@@ -222,9 +222,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b02a75407912414a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CREATE TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f678be845b0403b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabla tareas funcional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -290,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funciones IN, ANY, ALL.md",
+                "file": "Tabla tareas funcional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funciones IN, ANY, ALL.md",
+                "file": "Tabla tareas funcional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funciones IN, ANY, ALL.md"
+                "file": "Tabla tareas funcional.md"
               }
             }
           }
@@ -351,10 +375,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37096a2cd98412d8",
+  "active": "9f678be845b0403b",
   "lastOpenFiles": [
-    "Subconsultas SQL.md",
+    "CREATE TABLE.md",
+    "Tabla tareas funcional.md",
+    "EXISTS.md",
     "Funciones IN, ANY, ALL.md",
+    "Subconsultas SQL.md",
     "GROUP BY.md",
     "DECODE.md",
     "Pasted image 20240407175708.png",
@@ -368,7 +395,6 @@
     "COALESCE.md",
     "TO_CHAR.md",
     "Sumario base de datos principiante - avanzado.md",
-    "CREATE TABLE.md",
     "SELECT.md",
     "Tipos de funciones sql y ejemplos.md"
   ]
