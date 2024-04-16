@@ -270,9 +270,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fda4f4deef20135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modificar una fila en sql.md",
+                "file": "JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modificar una fila en sql.md",
+                "file": "JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modificar una fila en sql.md"
+                "file": "JOIN.md"
               }
             }
           }
@@ -399,10 +411,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33276ff9cda08a5d",
+  "active": "6fda4f4deef20135",
   "lastOpenFiles": [
-    "Tabla tareas funcional.md",
     "Modificar una fila en sql.md",
+    "JOIN.md",
+    "Tabla tareas funcional.md",
     "Eliminar filas desde el CLI.md",
     "CREATE TABLE.md",
     "EXISTS.md",
