@@ -39,5 +39,9 @@ INSERT INTO tareas (nombre, curso, semana, categoria, estado, link, fecha_lim)
 VALUES ('Tarea 1', 'Matemáticas', 2, 'Tarea', 'Pendiente', 'http://ejemplo.com/tarea1', TO_DATE('2024-04-15', 'YYYY-MM-DD'));
 
 ```
+```sql
+INSERT INTO employees
+VALUES ('&department_id', )
+```
 
 Este comando insertará una fila en la tabla "tareas" con los valores proporcionados. Asegúrate de ajustar los valores de acuerdo a tus necesidades.

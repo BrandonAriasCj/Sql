@@ -70,3 +70,5 @@ En este ejemplo:
 - Las restricciones como las claves primarias y las claves externas garantizan la integridad de los datos y las relaciones entre las tablas.
 
 Recuerda adaptar la estructura de la tabla según tus necesidades específicas y las reglas de diseño de tu base de datos. ¡Si tienes más preguntas o necesitas más ejemplos, no dudes en preguntar!
+
+[[INSERT INTO]]

@@ -277,14 +277,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOIN.md",
+                "file": "Tabla tareas funcional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9ac4720be255ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CREATE TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb67d2fa4a74fdea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CREATE TABLE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -350,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOIN.md",
+                "file": "CREATE TABLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOIN.md",
+                "file": "CREATE TABLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOIN.md"
+                "file": "CREATE TABLE.md"
               }
             }
           }
@@ -411,13 +435,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fda4f4deef20135",
+  "active": "eb67d2fa4a74fdea",
   "lastOpenFiles": [
-    "Modificar una fila en sql.md",
-    "JOIN.md",
-    "Tabla tareas funcional.md",
-    "Eliminar filas desde el CLI.md",
+    "INSERT INTO.md",
     "CREATE TABLE.md",
+    "Modificar una fila en sql.md",
+    "Copia de filas de otras tablas.md",
+    "Tabla tareas funcional.md",
+    "Combinar create tabla con sing.md",
+    "JOIN.md",
+    "Eliminar filas desde el CLI.md",
     "EXISTS.md",
     "Funciones IN, ANY, ALL.md",
     "Subconsultas SQL.md",
@@ -426,7 +453,6 @@
     "Pasted image 20240407175708.png",
     "Tipos de funciones de grupo.md",
     "Concatenacion en SQL con ejemplos variados.md",
-    "Combinar create tabla con sing.md",
     "SUBSTR.md",
     "CASE.md",
     "Ubicación de la Expresión en Cláusula CASE de SQL.md",
