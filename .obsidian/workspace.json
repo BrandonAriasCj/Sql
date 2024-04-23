@@ -306,9 +306,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "414f988b0fd3d532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DELETE FROM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -374,7 +386,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CREATE TABLE.md",
+                "file": "DELETE FROM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +403,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CREATE TABLE.md",
+                "file": "DELETE FROM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +426,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CREATE TABLE.md"
+                "file": "DELETE FROM.md"
               }
             }
           }
@@ -435,10 +447,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb67d2fa4a74fdea",
+  "active": "414f988b0fd3d532",
   "lastOpenFiles": [
-    "INSERT INTO.md",
     "CREATE TABLE.md",
+    "DELETE FROM.md",
+    "CROSS JOIN.md",
+    "INSERT INTO.md",
     "Modificar una fila en sql.md",
     "Copia de filas de otras tablas.md",
     "Tabla tareas funcional.md",
