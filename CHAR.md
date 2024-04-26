@@ -15,6 +15,12 @@ CREATE TABLE Empleados (
 ```sql
 INSERT INTO Empleados (ID, Nombre, Apellido) VALUES (1, 'Juan', 'Pérez');
 ```
+block:
+```sql
+INSERT INTO Producto (ID, Nombre, Apellido) 
+VALUES (1, 'Juan', 'Pérez');
+```
+
 
 3. **Actualizar datos en una tabla con columnas CHAR**:
 

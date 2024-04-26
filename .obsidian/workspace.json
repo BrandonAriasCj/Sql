@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CREATE TABLE.md",
+                "file": "CHAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "insert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74cabf378de6cb12",
+  "active": "0af7dd7035d7e517",
   "lastOpenFiles": [
-    "CHAR.md",
     "CREATE TABLE.md",
+    "CHAR.md",
     "Combinar create tabla con sing.md",
     "Conectar una pagina web con una base de datos.md",
     "COALESCE.md",

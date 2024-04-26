@@ -37,11 +37,17 @@ CREATE TABLE empleados (
 ```
 
 ```sql
-CREATE TABLE nombre (
+CREATE TABLE PRODUCTO (
 	id_producto NUMBER(5) PRIMARY KEY,
 	nombre VARCHAR(20),
-	estado CHAR(1)
+	estado CHAR(1),
+	precio NUMBER(7,2),
+	categoria CHAR(1)
 );
+
+alter table PRODUCTO  
+add Marca varchar(40);  
+COMMIT;
 ```
 
 En este ejemplo:
