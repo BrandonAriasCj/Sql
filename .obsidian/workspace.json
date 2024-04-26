@@ -8,331 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33975d1ee0484254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipos de funciones sql y ejemplos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7412d3f5cb0020eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO_CHAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b0e84f16b2f8fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COALESCE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3dec9d7e4b91be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DECODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ddddfa9c4365bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SIGN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ef57ebab68c046b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubicación de la Expresión en Cláusula CASE de SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96a3bde376bfa705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SELECT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3594f383266afb06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CREATE TABLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8c7095bae3f1415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sumario base de datos principiante - avanzado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb0ab87997072d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combinar create tabla con sing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25a5649fe90c6a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GROUP BY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "669befe7c3c1dd99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubicación de la Expresión en Cláusula CASE de SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa67034687859257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CASE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e9637c6091fbc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SUBSTR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea9fbdf87b074d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concatenacion en SQL con ejemplos variados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b0672ce5b792f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GROUP BY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "137aa90df743ee4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subconsultas SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37096a2cd98412d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funciones IN, ANY, ALL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b02a75407912414a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CREATE TABLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f678be845b0403b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tabla tareas funcional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6019eb87480c7c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tabla tareas funcional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33276ff9cda08a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modificar una fila en sql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fda4f4deef20135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tabla tareas funcional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9ac4720be255ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CREATE TABLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb67d2fa4a74fdea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CREATE TABLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "414f988b0fd3d532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COALESCE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0af7dd7035d7e517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conectar una pagina web con una base de datos.md",
+                "file": "CREATE TABLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74cabf378de6cb12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHAR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -398,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conectar una pagina web con una base de datos.md",
+                "file": "CHAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conectar una pagina web con una base de datos.md",
+                "file": "CHAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conectar una pagina web con una base de datos.md"
+                "file": "CHAR.md"
               }
             }
           }
@@ -459,19 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af7dd7035d7e517",
+  "active": "74cabf378de6cb12",
   "lastOpenFiles": [
-    "COALESCE.md",
+    "CHAR.md",
+    "CREATE TABLE.md",
+    "Combinar create tabla con sing.md",
     "Conectar una pagina web con una base de datos.md",
+    "COALESCE.md",
     "CASE.md",
     "DELETE FROM.md",
-    "CREATE TABLE.md",
     "CROSS JOIN.md",
     "INSERT INTO.md",
     "Modificar una fila en sql.md",
     "Copia de filas de otras tablas.md",
     "Tabla tareas funcional.md",
-    "Combinar create tabla con sing.md",
     "JOIN.md",
     "Eliminar filas desde el CLI.md",
     "EXISTS.md",
@@ -486,7 +187,6 @@
     "Ubicación de la Expresión en Cláusula CASE de SQL.md",
     "SIGN.md",
     "TO_CHAR.md",
-    "Sumario base de datos principiante - avanzado.md",
-    "SELECT.md"
+    "Sumario base de datos principiante - avanzado.md"
   ]
 }

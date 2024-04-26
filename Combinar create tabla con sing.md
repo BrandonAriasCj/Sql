@@ -21,6 +21,11 @@ CREATE TABLE productos (
     ) STORED
 );
 ```
+```sql
+CREATE TABLE nombre (
+	nombre
+);
+```
 
 
 En este ejemplo:

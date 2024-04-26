@@ -36,6 +36,14 @@ CREATE TABLE empleados (
 );
 ```
 
+```sql
+CREATE TABLE nombre (
+	id_producto NUMBER(5) PRIMARY KEY,
+	nombre VARCHAR(20),
+	estado CHAR(1)
+);
+```
+
 En este ejemplo:
 - `id_empleado INT PRIMARY KEY`: Define una columna llamada `id_empleado` de tipo `INT` como la clave primaria de la tabla.
 - `nombre VARCHAR(50)`: Define una columna `nombre` de tipo `VARCHAR` con una longitud máxima de 50 caracteres.
