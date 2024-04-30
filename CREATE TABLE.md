@@ -48,6 +48,9 @@ CREATE TABLE PRODUCTO (
 alter table PRODUCTO  
 add Marca varchar(40);  
 COMMIT;
+
+INSERT INTO PRODUCTO (id_producto, nombre, estado, precio, categoria, marca)
+VALUES (1, 'balon', 1, 50, 'a','adfas');
 ```
 
 En este ejemplo:

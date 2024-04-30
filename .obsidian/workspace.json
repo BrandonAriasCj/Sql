@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHAR.md",
+                "file": "DELETE FROM.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "insert",
+                "query": "delete",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHAR.md",
+                "file": "DELETE FROM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHAR.md",
+                "file": "DELETE FROM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHAR.md"
+                "file": "DELETE FROM.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "0af7dd7035d7e517",
   "lastOpenFiles": [
+    "INSERT INTO.md",
+    "PROYECTOS Y EJERCICIOS/practica07.sql",
     "CREATE TABLE.md",
     "CHAR.md",
     "Combinar create tabla con sing.md",
@@ -169,7 +171,6 @@
     "CASE.md",
     "DELETE FROM.md",
     "CROSS JOIN.md",
-    "INSERT INTO.md",
     "Modificar una fila en sql.md",
     "Copia de filas de otras tablas.md",
     "Tabla tareas funcional.md",
@@ -186,7 +187,6 @@
     "SUBSTR.md",
     "Ubicación de la Expresión en Cláusula CASE de SQL.md",
     "SIGN.md",
-    "TO_CHAR.md",
-    "Sumario base de datos principiante - avanzado.md"
+    "TO_CHAR.md"
   ]
 }
