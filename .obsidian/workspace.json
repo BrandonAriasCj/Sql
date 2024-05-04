@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DELETE FROM.md",
+                "file": "Tipos de funciones de grupo.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delete",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DELETE FROM.md",
+                "file": "Tipos de funciones de grupo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DELETE FROM.md",
+                "file": "Tipos de funciones de grupo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DELETE FROM.md"
+                "file": "Tipos de funciones de grupo.md"
               }
             }
           }
@@ -159,17 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0af7dd7035d7e517",
+  "active": "32fb2ecca56b2fbb",
   "lastOpenFiles": [
+    "CREATE TABLE.md",
+    "PROYECTOS Y EJERCICIOS/Examen teorico.sql",
+    "PROYECTOS Y EJERCICIOS/jdev8933327620623792388.sql",
+    "DELETE FROM.md",
     "INSERT INTO.md",
     "PROYECTOS Y EJERCICIOS/practica07.sql",
-    "CREATE TABLE.md",
     "CHAR.md",
     "Combinar create tabla con sing.md",
     "Conectar una pagina web con una base de datos.md",
     "COALESCE.md",
     "CASE.md",
-    "DELETE FROM.md",
     "CROSS JOIN.md",
     "Modificar una fila en sql.md",
     "Copia de filas de otras tablas.md",
