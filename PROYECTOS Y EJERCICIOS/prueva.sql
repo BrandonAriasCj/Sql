@@ -1,0 +1,12 @@
+CREATE TABLE ALUMNO(
+  idealumno CHAR(4) PRIMARY KEY,
+  paterno VARCHAR2(20) NOT NULL,
+  materno VARCHAR2(20),
+  Nombre VARCHAR2(20),
+  Fec_nac DATE DEFAULT SYSDATE
+);
+
+
+CREATE TABLE CURSO2(
+  idcurso CHAR(2)
+);

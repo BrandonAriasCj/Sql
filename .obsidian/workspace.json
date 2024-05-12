@@ -219,8 +219,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1eb73c040f68135",
+  "active": "cbdd74d8d7935ef7",
   "lastOpenFiles": [
+    "PROYECTOS Y EJERCICIOS/prueva.sql",
+    "PROYECTOS Y EJERCICIOS/jdev4387535701608557631.sql",
+    "PROYECTOS Y EJERCICIOS/LABORATORIOS TECSUP/LAB09.sql",
+    "PROYECTOS Y EJERCICIOS/LABORATORIOS TECSUP/jdev5315139601314281532.sql",
+    "PROYECTOS Y EJERCICIOS/LABORATORIOS TECSUP/LAB07.sql",
+    "PROYECTOS Y EJERCICIOS/LAB07.sql",
+    "PROYECTOS Y EJERCICIOS/LABORATORIOS TECSUP",
+    "PROYECTOS Y EJERCICIOS/Nueva carpeta",
     "WHIT CHECK OPTION.md",
     "INDICES.md",
     "Create or replace.md",
@@ -249,7 +257,6 @@
     "GROUP BY.md",
     "DECODE.md",
     "Pasted image 20240407175708.png",
-    "Concatenacion en SQL con ejemplos variados.md",
-    "SUBSTR.md"
+    "Concatenacion en SQL con ejemplos variados.md"
   ]
 }
