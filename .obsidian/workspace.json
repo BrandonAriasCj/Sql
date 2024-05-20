@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDICES.md",
+                "file": "Tabla tareas funcional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539c59efac83d08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "insert into desde php.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDICES.md",
+                "file": "insert into desde php.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INDICES.md",
+                "file": "insert into desde php.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDICES.md"
+                "file": "insert into desde php.md"
               }
             }
           }
@@ -219,8 +231,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbdd74d8d7935ef7",
+  "active": "539c59efac83d08d",
   "lastOpenFiles": [
+    "Tabla tareas funcional.md",
+    "insert into desde php.md",
+    "CHAR.md",
+    "Tipos de funciones de grupo.md",
     "PROYECTOS Y EJERCICIOS/prueva.sql",
     "PROYECTOS Y EJERCICIOS/jdev4387535701608557631.sql",
     "PROYECTOS Y EJERCICIOS/LABORATORIOS TECSUP/LAB09.sql",
@@ -233,15 +249,12 @@
     "INDICES.md",
     "Create or replace.md",
     "Vistas.md",
-    "Tipos de funciones de grupo.md",
     "JOIN.md",
-    "CHAR.md",
     "CREATE TABLE.md",
     "PROYECTOS Y EJERCICIOS/Examen teorico.sql",
     "PROYECTOS Y EJERCICIOS/jdev8933327620623792388.sql",
     "DELETE FROM.md",
     "INSERT INTO.md",
-    "PROYECTOS Y EJERCICIOS/practica07.sql",
     "Combinar create tabla con sing.md",
     "Conectar una pagina web con una base de datos.md",
     "COALESCE.md",
@@ -249,7 +262,6 @@
     "CROSS JOIN.md",
     "Modificar una fila en sql.md",
     "Copia de filas de otras tablas.md",
-    "Tabla tareas funcional.md",
     "Eliminar filas desde el CLI.md",
     "EXISTS.md",
     "Funciones IN, ANY, ALL.md",
